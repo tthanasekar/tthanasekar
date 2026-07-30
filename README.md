@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Thanasekar
 
-<!--
-**tthanasekar/tthanasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Data Engineer
 
-Here are some ideas to get you started:
+💼 Working with SQL Server, SSIS, Azure Data Factory, Azure DevOps and ETL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- SQL Server
+- SSIS
+- Azure Data Factory
+- Azure DevOps
+- Git & GitHub
+- Power BI
+
+### 🌱 Currently Learning
+- Azure
+- CI/CD
+- Data Engineering Best Practices
+
+### 📂 Featured Projects
+- SQL Interview Practice
+- AdventureWorks SQL Queries
+- ADF Pipelines
+- SSIS ETL Projects
+
+Thanks for visiting my profile! ⭐
